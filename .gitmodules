@@ -1,0 +1,4 @@
+[submodule "SubM"]
+	path = SubM
+	url = https://github.com/rickyying/Sub
+	branch = master
